@@ -1,1 +1,1 @@
-# Tera_PetShop_Salchichinha
+# Tera PetShop Salchichinha
