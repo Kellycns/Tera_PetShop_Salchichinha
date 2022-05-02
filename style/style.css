@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+::-webkit-scrollbar {
+    display: none;
+    }
 body{
     background-color: #e8dab2;
     font-family: 'Raleway', sans-serif;
@@ -22,6 +25,7 @@ h1{
 .img1{
     width: 370px;
     height: 192px;
+    margin-left: 120px;
 }
 main{
     background-color: white;
@@ -35,6 +39,7 @@ main{
 }
 .titulos_secundarios{
     font-size: 30px;
+    margin-top: 20px;
 }
 p, .titulos_secundarios{
     line-height: 24px;

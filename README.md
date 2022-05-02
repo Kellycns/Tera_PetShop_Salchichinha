@@ -1,7 +1,21 @@
-# Tera PetShop Salchichinha
-<p>Projeto desenvolvido durante o curso de fullstack developer na Tera</p>
-<div style="display: inline_block">
-  <img align="center" alt="Kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div><br>
-<a href="https://kellycns.github.io/Tera_PetShop_Salchichinha/">Veja o resultado aqui</a>
+# PetShop Salchichinha
+![Alt ou título da imagem](img/PetshopSalchichinha.gif)
+
+<h3 align="center">
+<a href="https://kellycns.github.io/Tera_PetShop_Salchichinha/">Acessar a demonstração</a>
+</h3>
+
+<br>
+
+## 📖 Sobre
+O PetShop Salchichinha é uma landing page que foi desenvolvido durante o curso de desenvolvimento Full Stack na [Tera](https://somostera.com/) e teve como objetivo treinar os conhecimentos adquiridos nas aulas de HTML e CSS.
+
+<br>
+
+## 💻 Tecnologias usadas
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+<br>
+
+👩‍💻 Desenvolvido por [Kelly Santos](https://github.com/Kellycns) - 2022
